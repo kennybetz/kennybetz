@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I work for a software company SolidCAM, but within the 3d printing realm of Computer Aided Manufacturing.
+
+Feel free to reach out if you want more info on 3d printing metal.
+
 <!--
 **kennybetz/kennybetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
